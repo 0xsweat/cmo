@@ -4,4 +4,3 @@ type in
 program.cmo.quit
 if you want to close the program
 
-requires colorama
