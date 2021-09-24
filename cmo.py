@@ -1,7 +1,7 @@
 from colorama import Fore,Style
 print(Fore.RED + "cmo text version 1.0")
 print("coded by 0x.sweat")
-print("program.cmo.quit closes the text editor \nit also saves the file unless you don't want to, if you don't then leave the save blank")
+print("program.cmo.quit closes the text editor \nit also saves the file unless you don't want to,\n if you don't then leave the save blank")
 contents = []
 code = ''
 
