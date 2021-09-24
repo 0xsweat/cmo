@@ -1,6 +1,7 @@
 #!/bin/bash
 
 if [[ $EUID -ne 0 ]]; then
+   Red='\033[0;30m'
    echo -e "${Red}must run as root" 
    exit 1
 fi
